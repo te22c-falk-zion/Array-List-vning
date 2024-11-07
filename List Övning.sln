@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Näsan Array", "Näsan Array", "{32667C24-A0F5-4097-B3C8-46B4F79FE9D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List Övning", "Näsan Array\List Övning\List Övning.csproj", "{960B48A6-3F5E-4831-91F1-C623DEBFD4D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{960B48A6-3F5E-4831-91F1-C623DEBFD4D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{960B48A6-3F5E-4831-91F1-C623DEBFD4D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{960B48A6-3F5E-4831-91F1-C623DEBFD4D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{960B48A6-3F5E-4831-91F1-C623DEBFD4D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{960B48A6-3F5E-4831-91F1-C623DEBFD4D3} = {32667C24-A0F5-4097-B3C8-46B4F79FE9D3}
+	EndGlobalSection
+EndGlobal
